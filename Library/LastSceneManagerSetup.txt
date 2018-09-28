@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/Scene/Scene2-Menu.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Scene/Scene1-Roll-a-ball.unity
+  isLoaded: 1
+  isActive: 1
